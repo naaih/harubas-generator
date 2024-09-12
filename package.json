@@ -1,0 +1,11 @@
+{
+  "name": "harubas",
+  "version": "1.0.1",
+  "description": "A package that generates a random maldivian proverb with its meaning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naaih",
+  "license": "MIT"
+}
